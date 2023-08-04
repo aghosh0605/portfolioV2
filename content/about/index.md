@@ -2,13 +2,12 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  -
+  - Penetration Testing
   - Reading
   - Coding
-  - Crafting
+  - Automating
   - Real Life Problem Solving
   - Team Management
-  - Mentoring
 ---
 
 Voilà! I'm Aniruddha Ghosh, from Kolkata, also known City of Joy.
