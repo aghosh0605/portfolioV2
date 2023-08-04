@@ -1,10 +1,10 @@
 ---
-title: 'Hello, my name is'
-name: 'Yashita Namdeo'
-subtitle: 'I love exploring new things!'
+title: 'Voilà!, my name is'
+name: 'Aniruddha Ghosh'
+subtitle: 'I love to save time for human beings!'
 buttonText: 'Get In Touch'
 ---
 
-I'm a Final Year Computer Science Engineering Student at SVVV, Indore. Primarily interested in Web Development and Data Science.
+I'm a Final Year Computer Science Engineering Student at SRMIST, Chennai. Primarily interested in Cybersecurity and Cloud.
 
 I enjoy learning new skills and implementing them in real life!

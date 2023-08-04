@@ -1,26 +1,26 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Aniruddha Ghosh',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Yashita Namdeo is a cybersecurity enthusiast, based in India, who loves learning new things and implementing them in real life.',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Aniruddha Ghosh, Aniruddha, Ghosh, aghosh0605, security engineer, web developer, javascript, python, typescript, srmist, chennai, cybersecurity , cloud, iot, linux, networking',
+  siteUrl: 'https://cybersupport.in/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
-  twitterHandle: '@',
+  googleAnalyticsID: 'G-STK2LEVWC2',
+  // googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  name: 'Aniruddha Ghosh',
+  location: 'Chennai, India',
+  email: 'aghosh0605@gmail.com',
+  github: 'https://github.com/aghosh0605',
+  twitterHandle: '@aghosh0605',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/aghosh0605',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
+      url: 'https://www.linkedin.com/in/aghosh0605/',
     },
     {
       name: 'Codepen',
@@ -28,11 +28,11 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
+      url: 'https://www.instagram.com/aghosh0605',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/',
+      url: 'https://twitter.com/aghosh0605',
     },
   ],
 
