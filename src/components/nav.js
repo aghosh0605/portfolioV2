@@ -303,6 +303,21 @@ class Nav extends Component {
                 </CSSTransition>
               )}
             </TransitionGroup>
+
+            <TransitionGroup component={null}>
+              {isMounted && (
+                <CSSTransition classNames={fadeDownClass} timeout={timeout}>
+                  <div style={{ transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms` }}>
+                    <StyledResumeButton
+                      href="https://blog.cybersupport.in"
+                      target="_blank"
+                      rel="nofollow noopener noreferrer">
+                      Blog
+                    </StyledResumeButton>
+                  </div>
+                </CSSTransition>
+              )}
+            </TransitionGroup>
           </StyledLink>
         </StyledNav>
 

@@ -106,8 +106,13 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Designed &amp; Built by Brittany Chiang<br></br>
-            Revised by Aniruddha Ghosh
+            <p>
+              Compiled with{' '}
+              <span role="img" aria-label="donut">
+                💜
+              </span>{' '}
+              by Aniruddha Ghosh
+            </p>
           </div>
 
           {githubInfo.stars && githubInfo.forks && (
