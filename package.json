@@ -18,7 +18,8 @@
     "start": "export SET NODE_OPTIONS=--openssl-legacy-provider && npm run develop",
     "serve": "export SET NODE_OPTIONS=--openssl-legacy-provider && gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "export SET NODE_OPTIONS=--openssl-legacy-provider && gatsby build && gh-pages -d public -b main"
+    "gpdeploy": "export SET NODE_OPTIONS=--openssl-legacy-provider && gatsby build && gh-pages -d public -b main",
+    "deploy": "gatsby clean && export SET NODE_OPTIONS=--openssl-legacy-provider && gatsby build && gatsby serve"
   },
   "husky": {
     "hooks": {
