@@ -1,7 +1,7 @@
 ---
 title: 'Voilà!, my name is'
 name: 'Aniruddha Ghosh'
-subtitle: 'I love to save time for human beings!'
+subtitle: 'Time is precious, and I love to save time for human beings!'
 buttonText: 'Get In Touch'
 ---
 
