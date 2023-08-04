@@ -3,9 +3,9 @@ title: 'About Me'
 avatar: 'me.jpg'
 skills:
   - Penetration Testing
-  - Reading
-  - Coding
-  - Automating
+  - Exploring Cloud Security
+  - Building Web Applications
+  - Automating Infrastructure
   - Real Life Problem Solving
   - Team Management
 ---
