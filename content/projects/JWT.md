@@ -8,7 +8,7 @@ tech:
   - JavaScript
   - JWT
   - Bcrypt
-# company: 'JPMC'
+company: 'AlexaDevSRM'
 showInProjects: true
 ---
 

@@ -12,7 +12,7 @@ tech:
   - Express
   - Typescript
   - Multer
-# company: 'Suven'
+company: 'AlexaDevSRM'
 showInProjects: true
 ---
 

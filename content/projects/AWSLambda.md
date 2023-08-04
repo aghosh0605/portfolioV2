@@ -10,7 +10,7 @@ tech:
   - Typescript
   - S3
   - Docker
-company: ''
+company: 'HTBSRMIST'
 showInProjects: true
 ---
 
