@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Aniruddha Ghosh',
   siteDescription:
-    'Yashita Namdeo is a cybersecurity enthusiast, based in India, who loves learning new things and implementing them in real life.',
+    'Aniruddha Ghosh is a cybersecurity enthusiast, based in India, who loves learning new things and implementing them in real life.',
   siteKeywords:
     'Aniruddha Ghosh, Aniruddha, Ghosh, aghosh0605, security engineer, web developer, javascript, python, typescript, srmist, chennai, cybersecurity , cloud, iot, linux, networking',
   siteUrl: 'https://cybersupport.in/',

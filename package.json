@@ -1,11 +1,11 @@
 {
   "name": "v1",
-  "description": "Personal Website V1",
+  "description": "Personal Website V2",
   "version": "1.0.0",
-  "author": "Yashita Namdeo <yashita.namdeo2000@gmail.com>",
+  "author": "Aniruddha Ghosh",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yashitanamdeo/yashitanamdeo.github.io"
+    "url": "https://github.com/aghosh0605/portfolioV2"
   },
   "keywords": [
     "gatsby"
