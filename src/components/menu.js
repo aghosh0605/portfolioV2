@@ -80,6 +80,13 @@ const ResumeLink = styled.a`
   width: max-content;
 `;
 
+const BlogLink = styled.a`
+  ${mixins.bigButton};
+  padding: 18px 59px;
+  margin: 10% auto 0;
+  width: max-content;
+`;
+
 const Menu = ({ menuOpen, toggleMenu }) => {
   const handleMenuClick = e => {
     const target = e.target;
@@ -110,6 +117,12 @@ const Menu = ({ menuOpen, toggleMenu }) => {
           <ResumeLink href="/resume.pdf" target="_blank" rel="nofollow noopener noreferrer">
             Resume
           </ResumeLink>
+          <BlogLink
+            href="https://blog.cybersupport.in"
+            target="_blank"
+            rel="nofollow noopener noreferrer">
+            Blog
+          </BlogLink>
         </NavLinks>
       </Sidebar>
     </StyledContainer>
