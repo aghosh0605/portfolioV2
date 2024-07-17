@@ -281,7 +281,8 @@ class Nav extends Component {
                     <CSSTransition key={i} classNames={fadeDownClass} timeout={timeout}>
                       <StyledListItem
                         key={i}
-                        style={{ transitionDelay: `${isHome ? i * 100 : 0}ms` }}>
+                        style={{ transitionDelay: `${isHome ? i * 100 : 0}ms` }}
+                      >
                         <StyledListLink to={url}>{name}</StyledListLink>
                       </StyledListItem>
                     </CSSTransition>
@@ -289,7 +290,7 @@ class Nav extends Component {
               </TransitionGroup>
             </StyledList>
 
-            <TransitionGroup component={null}>
+            {/* <TransitionGroup component={null}>
               {isMounted && (
                 <CSSTransition classNames={fadeDownClass} timeout={timeout}>
                   <div style={{ transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms` }}>
@@ -302,7 +303,7 @@ class Nav extends Component {
                   </div>
                 </CSSTransition>
               )}
-            </TransitionGroup>
+            </TransitionGroup> */}
 
             <TransitionGroup component={null}>
               {isMounted && (
@@ -311,7 +312,8 @@ class Nav extends Component {
                     <StyledResumeButton
                       href="https://blog.cybersupport.in"
                       target="_blank"
-                      rel="nofollow noopener noreferrer">
+                      rel="nofollow noopener noreferrer"
+                    >
                       Blog
                     </StyledResumeButton>
                   </div>

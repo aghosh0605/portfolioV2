@@ -1,6 +1,6 @@
 ---
 date: '2022-05-19'
-title: 'IAM Team Manager'
+title: 'IAM Team Manager Intern'
 company: 'Virtually Testing Foundation'
 location: remote
 range: 'Feb 2022 - May 2022'

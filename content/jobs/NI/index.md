@@ -1,9 +1,9 @@
 ---
 date: '2023-09-06'
-title: 'Cybersecurity Analyst'
+title: 'Cybersecurity Analyst Intern'
 company: 'Network Intelligence'
 location: Pune
-range: 'September 2022 - Present'
+range: 'Sept 2023 - Dec 2023'
 url: 'https://www.niiconsulting.com/'
 ---
 

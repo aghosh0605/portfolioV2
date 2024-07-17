@@ -1,9 +1,9 @@
 ---
 date: '2022-12-11'
-title: 'Full-stack Developer'
+title: 'Full-stack Developer Intern'
 company: 'Cario Growth Services(CGS) - Piechips'
 location: Chennai
-range: 'June 2022 - December 2022'
+range: 'Jun 2022 - Dec 2022'
 url: 'https://piechips.com/'
 ---
 

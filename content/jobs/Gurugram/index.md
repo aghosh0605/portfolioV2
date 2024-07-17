@@ -3,7 +3,7 @@ date: '2021-07-01'
 title: 'Gurugram Police Cyber Security Summer Intern'
 company: 'Haryana Police'
 location: remote
-range: 'June 2021 - July 2021'
+range: 'Jun 2021 - Jul 2021'
 url: 'https://gurgaon.haryanapolice.gov.in/'
 ---
 

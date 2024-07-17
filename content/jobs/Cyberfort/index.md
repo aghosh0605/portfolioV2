@@ -1,9 +1,9 @@
 ---
 date: '2023-05-21'
-title: 'Security Engineer'
+title: 'Security Engineer Intern'
 company: 'Cyberfort'
 location: Chennai
-range: 'Feb 2020 - May 2023'
+range: 'Feb 2023 - May 2023'
 url: 'https://cyberfort.in/'
 ---
 
